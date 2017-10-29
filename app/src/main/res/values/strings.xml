@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OpenStationMap</string>
+    <string name="spinnerTitle">Download Indoor Data</string>
+    <string name="buttonDownload">get Station Data</string>
+    <string name="downloadhint">Type a name for this station</string>
+    <string name="buttonsavestation">Save</string>
+    <string name="buttondontsavestation">"Don't Save"</string>
+    <string name="downloadresultyes">"Downloaded Station"</string>
+    <string name="downloadresultno">"Couldn't Download Station"</string>
+    <string name="buttonseeStations">"Stations"</string>
+    <string name="buttSave">"Save Station"</string>
+    <string name="switchB">"Style"</string>
+    <string name="titleDownload">Download Station</string>
+    <string name="asset_statements" translatable="false">[{\n  \"relation\": [\"delegate_permission/common.handle_all_urls\"],\n  \"target\": {\n    \"namespace\": \"web\",\n    \"site\": \"https://openstationmap.org\",\n  }\n}]</string>
+
+
+</resources>
